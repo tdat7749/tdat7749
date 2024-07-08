@@ -1,13 +1,10 @@
 # Hey there👋, I'm Thien Dat aka Klein.
 
  </br>
+<img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="60%" align="center"/>
 
+## 🙋‍♂️ About Me
 
-<img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="50%" align="right" />
-
-## ⚡🙋‍♂️ About Me
-
-</br>
 ⚡ I am Nguyen Bui Thien Dat, a dedicated and enthusiastic software engineering student with a strong interest in backend development, particularly using Java. I am currently studying at Saigon University and have been honing my skills through various projects that emphasize OOP, SOLID, DSA.
 </br>
 
