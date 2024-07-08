@@ -5,13 +5,11 @@
 
 ## 🙋‍♂️ About Me
 
-⚡ I am Nguyen Bui Thien Dat, a dedicated and enthusiastic software engineering student with a strong interest in backend development, particularly using Java. I am currently studying at Saigon University and have been honing my skills through various projects that emphasize OOP, SOLID, DSA.
+⚡ I am Nguyen Bui Thien Dat, a dedicated and enthusiastic software engineering student with a strong interest in backend development, particularly using Java. I am currently studying at Saigon University and have been honing my skills through various projects that emphasize OOP, SOLID, DSA,... .
 </br>
 
-⚡ I have hands-on experience with Java, Spring Boot, Angular , and relational databases like MySQL and PostgreSQL. I am also familiar with version control systems like Git, and I am continuously expanding my knowledge of cloud computing (AWS).
+⚡ I have hands-on experience with Java, Spring Boot, Angular, Docker,etc... and relational databases like MySQL and PostgreSQL. I am also familiar with version control systems like Git, and I am continuously expanding my knowledge of cloud computing (AWS).
 
 ⚡ If you are looking for a motivated and quick-learning backend intern who is passionate about Java and backend technologies, I would love to connect and discuss how I can contribute to your team.
-
-<hr>
 
 </br>
