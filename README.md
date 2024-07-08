@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hey there👋, I'm Thien Dat aka Klein.
 
-<!--
-**tdat7749/tdat7749** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ </br>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="50%" align="right" />
+
+## ⚡🙋‍♂️ About Me
+
+</br>
+⚡ I am Nguyen Bui Thien Dat, a dedicated and enthusiastic software engineering student with a strong interest in backend development, particularly using Java. I am currently studying at Saigon University and have been honing my skills through various projects that emphasize OOP, SOLID, DSA.
+</br>
+
+⚡ I have hands-on experience with Java, Spring Boot, Angular , and relational databases like MySQL and PostgreSQL. I am also familiar with version control systems like Git, and I am continuously expanding my knowledge of cloud computing (AWS).
+
+⚡ If you are looking for a motivated and quick-learning backend intern who is passionate about Java and backend technologies, I would love to connect and discuss how I can contribute to your team.
+
+<hr>
+
+</br>
